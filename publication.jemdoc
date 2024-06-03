@@ -31,7 +31,7 @@ Shao Zhang, Jianing Yu, Xuhai Xu, Changchang Yin, Yuxuan Lu, Bingsheng Yao, Mela
 Ruoqi Liu, Lingfei Wu, Ping Zhang\n
 /AAAI Conference on Artificial Intelligence/ (AAAI), 2024 (Acceptance rate: 2342\/9862 = 23.7%, main track, oral presentation)\n
 
-- [https://web.cse.ohio-state.edu/~zhang.10631/files/stimulant_2023.pdf *Stimulant drugs and stimulant use disorder*]\n
+- [files/stimulant_2023.pdf *Stimulant drugs and stimulant use disorder*]\n
 Wenyu Song, Aurelien Simona, Ping Zhang, David Bates, Richard Urman\n
 /Anesthesiology Clinics/, 42(1):103--115, 2024\n
 
@@ -64,7 +64,7 @@ Seungyeon Lee, Changchang Yin, Ping Zhang\n
 Liuping Wang, Zhan Zhang, Dakuo Wang, Weidan Cao, Xiaomu Zhou, Ping Zhang, Jianxing Liu, Xiangmin Fan, Feng Tian\n
 /Frontiers in Computer Science/ 5:1187299, 2023\n
 
-- [https://web.cse.ohio-state.edu/~zhang.10631/files/T4_2023.pdf *Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis*]\n
+- [files/T4_2023.pdf *Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis*]\n
 Ruoqi Liu, Katherine Hunold, Jeffrey Caterino, Ping Zhang\n
 /Nature Machine Intelligence/ 5:421--431, 2023 (Impact factor: 25.898. Selected Media Coverage: [https://news.osu.edu/optimizing-sepsis-treatment-timing-with-a-machine-learning-model/ Ohio State News], [https://healthitanalytics.com/news/machine-learning-model-estimates-optimal-treatment-timing-for-sepsis HealthITAnalytics], [https://www.mittrchina.com/news/detail/12056 MIT Technology Review Chinese Edition]. Featured on AMIA 2024 Informatics Summit Artificial Intelligence and Data Science Year-in-Review)\n
 
@@ -94,11 +94,11 @@ Zhizhen Zhao, Ruoqi Liu, Jonathan Groner, Henry Xiang, Ping Zhang\n
 Seungyeon Lee, Thai-Hoang Pham, Ping Zhang\n
 /IEEE International Conference on Data Mining/ (ICDM), 2022 (Acceptance rate: 174\/870 = 20.0%, short paper, oral presentation)\n
 
-- [https://web.cse.ohio-state.edu/~zhang.10631/files/KDD2022_DTR.pdf *Deconfounding actor-critic network with policy adaptation for dynamic treatment regimes*]\n
+- [files/KDD2022_DTR.pdf *Deconfounding actor-critic network with policy adaptation for dynamic treatment regimes*]\n
 Changchang Yin, Ruoqi Liu, Jeffrey Caterino, Ping Zhang\n
 /ACM SIGKDD Conference on Knowledge Discovery and Data Mining/ (KDD), 2022 (Acceptance rate: 254\/1695 = 15.0%, research track, oral presentation)\n
 
-- [https://web.cse.ohio-state.edu/~zhang.10631/files/KDD2022_AMD.pdf *Predicting age-related macular degeneration progression with contrastive attention and time-aware LSTM*]\n
+- [files/KDD2022_AMD.pdf *Predicting age-related macular degeneration progression with contrastive attention and time-aware LSTM*]\n
 Changchang Yin, Sayoko Moroi, Ping Zhang\n
 /ACM SIGKDD Conference on Knowledge Discovery and Data Mining/ (KDD), 2022 (Acceptance rate: 195\/753 = 25.9%, applied data science track, oral presentation)\n
 
@@ -159,7 +159,7 @@ Fenglin Liu, Changchang Yin, Xian Wu, Shen Ge, Ping Zhang, Xu Sun\n
 Ruhan Liu, Mengyao Liu, Bin Sheng, Huating Li, Ping Li, Haitao Song, Ping Zhang, Lixin Jiang, Dinggang Shen\n
 /IEEE Transactions on Medical Imaging/ (TMI) 40(12):3446--3458, 2021 (Impact factor: 10.048)\n
 
-- [https://web.cse.ohio-state.edu/~zhang.10631/files/survival_2021.pdf *A survival model generalized to regression learning algorithms*]\n
+- [files/survival_2021.pdf *A survival model generalized to regression learning algorithms*]\n
 Yuanfang Guan, Hongyang Li, Daiyao Yi, Dongdong Zhang, Changchang Yin, Keyu Li, Ping Zhang\n
 /Nature Computational Science/ 1:433--440, 2021\n
 
@@ -187,7 +187,7 @@ Thai-Hoang Pham, Yue Qiu, Jucheng Zeng, Lei Xie, Ping Zhang\n
 Dongdong Zhang, Changchang Yin, Katherine Hunold, Xiaoqian Jiang, Jeffrey Caterino, Ping Zhang\n
 /Patterns/ 2:100196, 2021 (Buckeye AI, one of the winning teams for [https://sbmi.uth.edu/dii-challenge/ 2019 DII National Data Science Challenge])\n
 
-- [https://web.cse.ohio-state.edu/~zhang.10631/files/DeepIPW_2021.pdf *A deep learning framework for drug repurposing via emulating clinical trials on real-world patient data*]\n
+- [files/DeepIPW_2021.pdf *A deep learning framework for drug repurposing via emulating clinical trials on real-world patient data*]\n
 Ruoqi Liu, Lai Wei, Ping Zhang\n
 /Nature Machine Intelligence/ 3:68--75, 2021 (Impact factor: 15.508. Selected Media Coverage: [https://www.nature.com/articles/d41573-021-00006-w Nature Reviews Drug Discovery], [https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/ Ohio State News], [https://www.bio-itworld.com/news/2021/02/04/ai-based-approach-crunches-real-world-data-to-emulate-clinical-trials Bio-IT World], [https://neo.life/2021/02/ai-breathes-new-life-into-old-drugs/ NEO.LIFE], [https://managedhealthcareconnect.com/articles/drug-repurposing-expediting-discovery-through-novel-algorithmic-framework First Report Managed Care], [https://www.verywellhealth.com/researchers-use-ai-repurposing-medications-5096087 Verywell Health], [https://www.drugdiscoverynews.com/ai-finds-new-uses-for-old-drugs-15222 Drug Discovery News], [http://www.mittrchina.com/news/detail/5537 MIT Technology Review Chinese Edition])\n
 
@@ -219,7 +219,7 @@ Dongdong Zhang, Changchang Yin, Jucheng Zeng, Xiaohui Yuan, Ping Zhang\n
 Rui Li, Changchang Yin, Samuel Yang, Buyue Qian, Ping Zhang\n
 /Journal of Medical Internet Research/ (JMIR) 22(9):e20645, 2020 (Impact factor: 5.034. Featured on AMIA 2021 Year-in-Review)\n
 
-- [https://web.cse.ohio-state.edu/~zhang.10631/files/KDD2020_TAME.pdf *Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder*]\n
+- [files/KDD2020_TAME.pdf *Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder*]\n
 Changchang Yin, Ruoqi Liu, Dongdong Zhang, Ping Zhang\n
 /ACM SIGKDD Conference on Knowledge Discovery and Data Mining/ (KDD), 2020 (Acceptance rate: 216\/1279 = 16.9%, research track, oral presentation)\n
 
@@ -239,7 +239,7 @@ Ruoqi Liu, Ping Zhang\n
 Gaocai Dong, Ping Zhang, Jingya Yang, Dongdong Zhang, Jing Peng\n
 /IEEE International Conference on Bioinformatics and Biomedicine/ (BIBM), 2019\n
 
-- [https://web.cse.ohio-state.edu/~zhang.10631/files/icdm2019.pdf *Domain knowledge guided deep learning with electronic health records*]\n
+- [files/icdm2019.pdf *Domain knowledge guided deep learning with electronic health records*]\n
 Changchang Yin, Rongjian Zhao, Buyue Qian, Xin Lv, Ping Zhang\n
 /IEEE International Conference on Data Mining/ (ICDM), 2019 (Acceptance rate: 95\/1046 = 9.1%, regular paper, oral presentation)\n
 
