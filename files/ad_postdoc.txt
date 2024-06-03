@@ -1,0 +1,18 @@
+Postdoctoral Researcher Positions in Data Mining and Machine Learning at The Ohio State University
+
+Multiple postdoctoral researcher positions are available at The Ohio State University (OSU). The postdoctoral researcher is expected to develop novel data mining/machine learning algorithms for analyzing complex biomedical data (e.g., electronic health records, hospital claims, gene expression, and medical images) to solve tough problems in healthcare and medicine (e.g., clinical decision support, disease phenotyping, and drug repurposing). The postdoctoral researcher will work closely with Dr. Ping Zhang (https://web.cse.ohio-state.edu/~zhang.10631/) in Artificial Intelligence in Medicine (AIMed) Lab at OSU.
+
+Qualifications:
+- PhD in related subject areas, such as computer science, statistics/biostatistics, and health/biomedical informatics;
+- Experience in analyzing large scale data from a variety of sources;
+- Excellent programming skills in either Python, R, MATLAB, Java, or C/C++;
+- Experience in publishing first-author research articles in peer-reviewed technical conferences such as KDD, ICDM, SDM, NeurIPS, ICML, ICLR, IJCAI, AAAI, AISTATS or similar;
+- Excellent oral and written communication skills and ability to work in a collaborative environment, to coordinate and lead part of the research project.
+
+Interested applicants can contact Dr. Ping Zhang by sending the following documents to his email (zhang.10631@osu.edu):
+- cover letter with research interests/plans and preferred starting date;
+- a current CV with a full list of publications;
+- 2 representative publications;
+- contact information for 2 references.
+
+* Visiting students/scholars are also welcome.
