@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{about.html}, nofooter  
+==Ping Zhang --- About
+
+== Biography
+Ping Zhang is a tenured Associate Professor at The Ohio State University (OSU), with joint appointments in the Department of Computer Science and Engineering (CSE), and the Department of Biomedical Informatics (BMI). He leads the Artificial Intelligence in Medicine (AIMed) Lab at OSU. He directs the Artificial Intelligence in Digital Health Collaboration Core at The Ohio State University Wexner Medical Center (OSUWMC). Prior to Ohio State, he was a researcher at IBM T.J. Watson Research Center. His research focuses on machine learning, data mining, and their applications to trustworthy AI and computational medicine.
+
+Dr. Zhang has published over 80 papers and filed over 25 patents. He has received NSF CAREER award in 2022, IBM master inventor award in 2018, ESWC best in-use/industrial paper award in 2016, and AMIA Marco Ramoni distinguished paper nomination in 2014. His research has contributed to multiple AI products, including Watson for Drug Discovery, and Watson for Patient Safety. He received BS and MS in Computer Science from Huazhong University of Science and Technology in 2004 and 2007, and PhD in Computer Science from Temple University in 2013.
+
+Dr. Zhang has served on the program committees of leading international conferences, including KDD, NeurIPS, ICML, ICLR, IJCAI and AAAI, and on the editorial boards of /BMC Digital Health/, /BMC Medical Informatics and Decision Making/, /CPT: Pharmacometrics & Systems Pharmacology/ and /Journal of Healthcare Informatics Research/. He is an ACM Distinguished Speaker, AMIA Fellow, and IEEE Senior Member.
+
+== Appointments
+- [http://www.osu.edu/ The Ohio State University], Columbus, OH
+  -- Associate Professor with Tenure, [http://bmi.osu.edu/ Biomedical Informatics], May 2023 to present
+  -- Associate Professor with Tenure, [http://cse.osu.edu/ Computer Science and Engineering], May 2023 to present
+  -- Vice Chair of Education, [http://bmi.osu.edu/ Biomedical Informatics], July 2022 to present
+  -- Assistant Professor, [http://bmi.osu.edu/ Biomedical Informatics], January 2019 to April 2023
+  -- Assistant Professor, [http://cse.osu.edu/ Computer Science and Engineering], January 2019 to April 2023
+- [http://research.ibm.com/labs/watson/ IBM T.J. Watson Research Center], Yorktown Heights, NY
+  -- Master Inventor, October 2018 to December 2018
+  -- Research Staff Member, October 2014 to December 2018
+  -- Postdoctoral Researcher, December 2012 to October 2014
+- [http://www.gsk.com/research.html GlaxoSmithKline], Upper Merion, PA
+  -- Research Co-op, August 2012 to December 2012
+  -- Research Intern, May 2011 to August 2011
+- [http://www.usa.siemens.com/research/ Siemens Corporate Research], Princeton, NJ
+  -- Research Intern, May 2012 to August 2012
+
+== Education
+- PhD in Computer and Information Sciences, [http://www.temple.edu/ Temple University], Philadelphia, PA, 2013
+  -- Advisor: Prof. [http://www.dabi.temple.edu/~zoran/ Zoran Obradovic]
+  -- Dissertation: Learning from multiple knowledge sources
+- MS in Computer Software and Theory, [http://english.hust.edu.cn/ Huazhong University of Science & Technology], Wuhan, China, 2007
+- BS in Computer Science and Technology, [http://english.hust.edu.cn/ Huazhong University of Science & Technology], Wuhan, China, 2004

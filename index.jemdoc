@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Ping Zhang 
+
+~~~
+{}{img_left}{photos/bio.jpg}{alt text}{160}{160}{http://pingzhang.net}
+Ping Zhang, PhD, FAMIA \n
+Associate Professor \n
+[http://cse.osu.edu/ Department of Computer Science and Engineering] \n
+[http://bmi.osu.edu/ Department of Biomedical Informatics] \n
+[http://www.osu.edu/ The Ohio State University] \n
+
+Email: [zhang.10631@osu.edu] \n
+Phone: \+1-614-293-9286 \n
+Office: Lincoln Tower 310G
+
+~~~
+
+== Short Biography
+Ping Zhang is a tenured Associate Professor at The Ohio State University (OSU), with joint appointments at the Department of Computer Science and Engineering (CSE), and the Department of Biomedical Informatics (BMI). He leads the Artificial Intelligence in Medicine (AIMed) Lab at OSU. He leads the Artificial Intelligence in Digital Health Collaboration Core at The Ohio State University Wexner Medical Center (OSUWMC). His research focuses on {{<font size=+1.00><b>}}machine learning{{</b></font>}}, {{<font size=+1.00><b>}}data mining{{</b></font>}}, and their applications to {{<font size=+1.00><b>}}foundation models{{</b></font>}} (e.g., large language models, large vision models, large multimodal models), {{<font size=+1.00><b>}}trustworthy AI{{</b></font>}} (e.g., explainability, fairness, robustness, domain generalization, causal inference, uncertainty quantification, human-AI collaboration), {{<font size=+1.00><b>}}computational medicine{{</b></font>}} (e.g., predictive modeling, medical imaging, clinical NLP, real-world evidence, drug discovery \& development).
+
+== Openings
+[https://web.cse.ohio-state.edu/~zhang.10631/lab.html AIMed Lab] currently has openings for [https://web.cse.ohio-state.edu/~zhang.10631/files/ad_phd.txt PhD students (Fall 2024)], [https://web.cse.ohio-state.edu/~zhang.10631/files/ad_postdoc.txt postdoctoral associates], and visiting scholars with research interests related to trustworthy machine learning, causal inference, and AI algorithms in medicine. Please reach out to Dr. Ping Zhang via email if you are interested.
+
+== Research Support
+Our lab gratefully acknowledges ongoing and past support from NSF (e.g., CAREER [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2145625 IIS-2145625], SenSE [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2037398 CBET-2037398]), NIH (e.g., R01 [https://reporter.nih.gov/project-details/10185087 NIGMS-R01GM141279], R25 [https://reporter.nih.gov/project-details/10631689 NLM-R25LM014223], R01 [https://reporter.nih.gov/project-details/10590246 NIDA-R01DA057668], R01 [https://reporter.nih.gov/project-details/10504585 NCI-R01CA273924], R01 [https://reporter.nih.gov/project-details/9731584 NIGMS-R01GM122845], R21 [https://reporter.nih.gov/project-details/10217710 NIBIB-R21EB030294]), Ohio Department of Medicaid, Google, Lyntek Medical Technologies, and Nationwide Children's Hospital.
+
+== Professional Activities
+- AMIA Fellow, 2020-present
+- IEEE Senior Member, 2018-present
+- ACM Distinguished Speaker, 2018-2021
+- Associate Editor, [https://bmcdigitalhealth.biomedcentral.com/ BMC Digital Health], 2022-present
+- Associate Editor, [http://bmcmedinformdecismak.biomedcentral.com/ BMC Medical Informatics and Decision Making], 2018-present
+- Associate Editor, [https://link.springer.com/journal/41666 Journal of Healthcare Informatics Research], 2016-present
+- Editorial Board, [https://ascpt.onlinelibrary.wiley.com/journal/21638306/ CPT: Pharmacometrics & Systems Pharmacology], 2015-2023
+- Media and Publicity Chair, [http://www.kdd.org/kdd2018/ KDD 2018]
+- Media and Publicity Chair, [http://www.kdd.org/kdd2019/ KDD 2019]
+- Local Chair, [https://www.siam.org/Conferences/CM/Conference/sdm20 SDM 2020]
+- Workshop Chair, [https://www.siam.org/conferences/cm/conference/sdm23 SDM 2023]
+
+== Awards
+- OSU President’s Research Excellence Accelerator Award, 2024
+- NSF CAREER Award, 2022
+- OSU Award for Excellence in Mentoring, 2021
+- ICML Top Reviewer, 2020
+- DII National Data Science Challenge Honorable Mention Award, 2019
+- IBM Master Inventor Award, 2018
+- IBM Outstanding Technical Achievement Award for Cognitive-driven Chronic Disease Management Solution Suite, 2018
+- IBM Outstanding Technical Achievement Award for Patient Similarity Analytics, 2016
+- ESWC Best In-Use/Industrial Paper Award, 2016
+- AMIA Summits Nomination for Marco Ramoni Distinguished Paper Award, 2014
+- ACM Future of Computing Gold Award (First Place) for Graduate Projects, 2012
+- NSF Travel Grant Award for BIBM, 2012

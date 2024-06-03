@@ -1,0 +1,428 @@
+# jemdoc: menu{MENU}{publication.html}, nofooter
+==Ping Zhang --- Publications
+
+[http://scholar.google.com/citations?hl=en&user=E3WyjZUAAAAJ Google Scholar Page]\n\n
+[https://github.com/AIMedLab Lab Github (code & data)]
+
+~~~
+== 2024
+
+- [https://arxiv.org/pdf/2405.03943 *Predictive modeling with temporal graphical representation on electronic health records*]\n
+Jiayuan Chen, Changchang Yin, Yuanlong Wang, Ping Zhang\n
+/International Joint Conference on Artificial Intelligence/ (IJCAI), 2024\n
+
+- [https://arxiv.org/pdf/2405.06816v1 *Non-stationary domain generalization: Theory and algorithm*]\n
+Thai-Hoang Pham, Xueru Zhang, Ping Zhang\n
+/The Conference on Uncertainty in Artificial Intelligence/ (UAI), 2024 (Acceptance rate: 201\/744 = 27.0%)\n
+
+- [https://www.cell.com/patterns/fulltext/S2666-3899(24)00081-3 *CURE: A deep learning framework pre-trained on large-scale patient data for treatment effect estimation*]\n
+Ruoqi Liu, Pin-Yu Chen, Ping Zhang\n
+/Patterns/ 5:100973, 2024 (Impact factor: 6.5. Selected Media Coverage: [https://news.osu.edu/with-huge-patient-dataset-ai-accurately-predicts-treatment-outcomes Ohio State News], [https://www.azorobotics.com/News.aspx?newsID=14824 AZoRobotics], [https://healthitanalytics.com/news/deep-learning-framework-predicts-drug-effectiveness-treatment-outcomes HealthITAnalytics])\n
+
+- [https://arxiv.org/pdf/2309.12368.pdf *Rethinking human-AI collaboration in complex medical decision making: A case study in sepsis diagnosis*]\n
+Shao Zhang, Jianing Yu, Xuhai Xu, Changchang Yin, Yuxuan Lu, Bingsheng Yao, Melanie Tory, Lace M Padilla, Jeffrey Caterino, Ping Zhang, Dakuo Wang\n
+/ACM CHI Conference on Human Factors in Computing Systems/ (CHI), 2024 (Acceptance rate: 1060\/4028 = 26.3%)\n
+
+- [https://arxiv.org/pdf/2403.03791.pdf *KG-TREAT: Pre-training for treatment effect estimation by synergizing patient data with knowledge graphs*]\n
+Ruoqi Liu, Lingfei Wu, Ping Zhang\n
+/AAAI Conference on Artificial Intelligence/ (AAAI), 2024 (Acceptance rate: 2342\/9862 = 23.7%, main track, oral presentation)\n
+
+- [https://web.cse.ohio-state.edu/~zhang.10631/files/stimulant_2023.pdf *Stimulant drugs and stimulant use disorder*]\n
+Wenyu Song, Aurelien Simona, Ping Zhang, David Bates, Richard Urman\n
+/Anesthesiology Clinics/, 42(1):103--115, 2024\n
+
+- [https://www.cell.com/heliyon/fulltext/S2405-8440(24)02803-2 *Multimodal risk prediction with physiological signals, medical images and clinical notes*]\n
+Yuanlong Wang, Changchang Yin, Ping Zhang\n
+/Heliyon/, 10:e26772, 2024\n
+
+- [https://www.cell.com/patterns/fulltext/S2666-3899(24)00020-5 *DRAC 2022: A public benchmark for diabetic retinopathy analysis on ultra-wide optical coherence tomography angiography images*]\n
+Bo Qian, Hao Chen, Xiangning Wang, Zhouyu Guan, Tingyao Li, Yang Wen, Haoxuan Che, Gitaek Kwon, Jaeyoung Kim, Sungjin Choi, Seoyoung Shin, Felix Krause, Markus Unterdechler, Junlin Hou, Rui Feng, Yihao Li, Mostafa El Habib Daho, Dawei Yang, Qiang Wu, Ping Zhang, Xiaokang Yang, Yiyu Cai, Gavin Siew Wei Tan, Carol Y Cheung, Wei-Ping Jia, Huating Li, Yih Chung Tham, Tien Yin Wong, Bin Sheng\n
+/Patterns/ 5:100929, 2024 (Impact factor: 6.5. DRAC, a UW-OCTA [https://zenodo.org/records/10280359 dataset] for diabetic retinopathy)\n
+
+~~~
+
+~~~
+== 2023
+
+- [https://ieeexplore.ieee.org/document/10415782 *Heterogeneous treatment effect estimation with subpopulation identification for personalized medicine in opioid use disorder*]\n
+Seungyeon Lee, Ruoqi Liu, Wenyu Song, Ping Zhang\n
+/IEEE International Conference on Data Mining/ (ICDM), 2023 (Acceptance rate: 200\/1003 = 19.9%, short paper, oral presentation)\n
+
+- [https://www.degruyter.com/document/doi/10.1515/mr-2023-0039/html *The application of artificial intelligence in the management of sepsis*]\n
+Jie Yang, Sicheng Hao, Jiajie Huang, Tianqi Chen, Ruoqi Liu, Ping Zhang, Mengling Feng, Yang He, Wei Xiao, Yucai Hong, Zhongheng Zhang\n
+/Medical Review/ 3(5):369--380, 2023.
+
+- [https://www.cell.com/patterns/fulltext/S2666-3899(23)00197-6 *Stable clinical risk prediction against distribution shift in electronic health records*]\n
+Seungyeon Lee, Changchang Yin, Ping Zhang\n
+/Patterns/ 4:100828, 2023 (Impact factor: 6.5)\n
+
+- [https://www.frontiersin.org/articles/10.3389/fcomp.2023.1187299/full *Human-centered design and evaluation of AI-empowered clinical decision support systems: a systematic review*]\n
+Liuping Wang, Zhan Zhang, Dakuo Wang, Weidan Cao, Xiaomu Zhou, Ping Zhang, Jianxing Liu, Xiangmin Fan, Feng Tian\n
+/Frontiers in Computer Science/ 5:1187299, 2023\n
+
+- [https://web.cse.ohio-state.edu/~zhang.10631/files/T4_2023.pdf *Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis*]\n
+Ruoqi Liu, Katherine Hunold, Jeffrey Caterino, Ping Zhang\n
+/Nature Machine Intelligence/ 5:421--431, 2023 (Impact factor: 25.898. Selected Media Coverage: [https://news.osu.edu/optimizing-sepsis-treatment-timing-with-a-machine-learning-model/ Ohio State News], [https://healthitanalytics.com/news/machine-learning-model-estimates-optimal-treatment-timing-for-sepsis HealthITAnalytics], [https://www.mittrchina.com/news/detail/12056 MIT Technology Review Chinese Edition]. Featured on AMIA 2024 Informatics Summit Artificial Intelligence and Data Science Year-in-Review)\n
+
+- [https://arxiv.org/pdf/2301.13323.pdf *Fairness and accuracy under domain generalization*]\n
+Thai-Hoang Pham, Xueru Zhang, Ping Zhang\n
+/International Conference on Learning Representations/ (ICLR), 2023 (Acceptance rate: 1564\/4922 = 31.8%)\n
+
+- [https://ieeexplore.ieee.org/document/9956853 *TMM-Nets: Transferred multi- to mono-modal generation for lupus retinopathy diagnosis*]\n
+Ruhan Liu, Tianqin Wang, Huating Li, Ping Zhang, Jing Li, Xiaokang Yang, Dinggang Shen, Bin Sheng\n
+/IEEE Transactions on Medical Imaging/ (TMI) 42(4):1083--1094, 2023 (Impact factor: 11.037)\n
+
+- [https://link.springer.com/article/10.1007/s10115-022-01813-2 *A fair and interpretable network for clinical risk prediction: A regularized multi-view multi-task learning approach*]\n
+Thai-Hoang Pham, Changchang Yin, Laxmi Mehta, Xueru Zhang, Ping Zhang\n
+/Knowledge and Information Systems/ (KAIS) 65:1487--1521, 2023\n
+
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10283092/ *Data imputation for clinical trial emulation: A case study on impact of intracranial pressure monitoring for traumatic brain injury*]\n
+Zhizhen Zhao, Ruoqi Liu, Jonathan Groner, Henry Xiang, Ping Zhang\n
+/American Medical Informatics Association Informatics Summit/ (AMIA Summit), 2023\n
+
+~~~
+
+
+~~~
+== 2022
+
+- [https://ieeexplore.ieee.org/document/10027713 *DREAM: Domain invariant and contrastive representation for sleep dynamics*]\n
+Seungyeon Lee, Thai-Hoang Pham, Ping Zhang\n
+/IEEE International Conference on Data Mining/ (ICDM), 2022 (Acceptance rate: 174\/870 = 20.0%, short paper, oral presentation)\n
+
+- [https://web.cse.ohio-state.edu/~zhang.10631/files/KDD2022_DTR.pdf *Deconfounding actor-critic network with policy adaptation for dynamic treatment regimes*]\n
+Changchang Yin, Ruoqi Liu, Jeffrey Caterino, Ping Zhang\n
+/ACM SIGKDD Conference on Knowledge Discovery and Data Mining/ (KDD), 2022 (Acceptance rate: 254\/1695 = 15.0%, research track, oral presentation)\n
+
+- [https://web.cse.ohio-state.edu/~zhang.10631/files/KDD2022_AMD.pdf *Predicting age-related macular degeneration progression with contrastive attention and time-aware LSTM*]\n
+Changchang Yin, Sayoko Moroi, Ping Zhang\n
+/ACM SIGKDD Conference on Knowledge Discovery and Data Mining/ (KDD), 2022 (Acceptance rate: 195\/753 = 25.9%, applied data science track, oral presentation)\n
+
+- [https://onlinelibrary.wiley.com/doi/full/10.1002/lrh2.10336 *Review of applied health informatics courses in a multidisciplinary biomedical informatics department*]\n
+Tasneem Motiwala, Ping Zhang, Megan Gregory, Naleef Fareed, Xia Ning, Kevin Coombes, Gabrielle Kokanos, Courtney Hebert\n
+/Learning Health Systems/ 6(4):e10336, 2022\n
+
+- [https://www.cell.com/patterns/fulltext/S2666-3899(22)00104-0 *DeepDRiD: Diabetic retinopathy—grading and image quality estimation challenge*]\n
+Ruhan Liu, Xiangning Wang, Qiang Wu, Ling Dai, Xi Fang, Tao Yan, Jaemin Son, Shiqi Tang, Jiang Li, Zijian Gao, Adrian Galdran, J.M. Poorneshwaran, Hao Liu, Jie Wang, Yerui Chen, Prasanna Porwal, Gavin Siew Wei Tan, Xiaokang Yang, Chao Dai, Haitao Song, Mingang Chen, Huating Li, Weiping Jia, Dinggang Shen, Bin Sheng, Ping Zhang\n
+/Patterns/ 3:100512, 2022 (DeepDRiD, a labeled [https://github.com/deepdrdoc/DeepDRiD dataset] for diabetic retinopathy)\n
+
+- [https://www.cell.com/patterns/fulltext/S2666-3899(22)00014-9 *Chemical-induced gene expression ranking and its application to pancreatic cancer drug repurposing*]\n
+Thai-Hoang Pham, Yue Qiu, Jiahui Liu, Steven Zimmer, Eric O'Neill, Lei Xie, Ping Zhang\n
+/Patterns/ 3:100441, 2022 ([https://www.cell.com/patterns/fulltext/S2666-3899(22)00050-2 Preview] and [https://www.cell.com/patterns/fulltext/S2666-3899(22)00126-X Editorial] on /Patterns/)\n
+
+- [https://ieeexplore.ieee.org/document/9712230 *Mixed-weight neural bagging for detecting m6A modifications in SARS-CoV-2 RNA sequencing*]\n
+Ruhan Liu, Liang Ou, Bin Sheng, Pei Hao, Ping Li, Xiaokang Yang, Guangtao Xue, Lei Zhu, Yuyang Luo, Ping Zhang, Po Yang, Huating Li, Dagan Feng\n
+/IEEE Transactions on Biomedical Engineering/ (TBME) 69(8):2557--2568, 2022\n
+
+- [https://mhealth.jmir.org/2022/3/e29415 *mHealth interventions for self-management of hypertension: a framework and systematic review on engagement, interactivity, and tailoring*]\n
+Weidan Cao, M. Wesley Milks, Xiaofu Liu, Megan Gregory, Daniel Addison, Ping Zhang, Lang Li\n
+/JMIR mHealth and uHealth/, 10(3):e29415, 2022\n
+
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9285161/ *A computational framework for identifying age risks in drug-adverse event pairs*]\n
+Zhizhen Zhao, Ruoqi Liu, Lei Wang, Lang Li, Chi Song, Ping Zhang\n
+/American Medical Informatics Association Informatics Summit/ (AMIA Summit), 2022\n
+
+- [https://www.biorxiv.org/content/10.1101/2022.01.21.477292v1.full.pdf *FAME: fragment-based conditional molecular generation for phenotypic drug discovery*]\n
+Thai-Hoang Pham, Lei Xie, Ping Zhang\n
+/SIAM International Conference on Data Mining/ (SDM), 2022 (Acceptance rate: 83\/298 = 27.8%, regular paper, oral presentation)\n
+
+~~~
+
+
+~~~
+== 2021
+- [https://arxiv.org/pdf/2109.12276.pdf *Cardiac complication risk profiling for cancer survivors via multi-view multi-task learning*]\n
+Thai-Hoang Pham, Changchang Yin, Laxmi Mehta, Xueru Zhang, Ping Zhang\n
+/IEEE International Conference on Data Mining/ (ICDM), 2021 (Acceptance rate: 98\/990 = 9.9%, regular paper, oral presentation. Selected as one of the best papers and invited to KAIS Journal Special Issue)\n
+
+- [https://arxiv.org/pdf/2109.14147.pdf *Temporal clustering with external memory network for disease progression modeling*]\n
+Zicong Zhang, Changchang Yin, Ping Zhang\n
+/IEEE International Conference on Data Mining/ (ICDM), 2021 (Acceptance rate: 98\/990 = 9.9%, regular paper, oral presentation)\n
+
+- [https://www.mdpi.com/1660-4601/18/23/12702/htm *Examining the drivers of racial\/ethnic disparities in non-adherence to antihypertensive medications and mortality due to heart disease and stroke: a county-level analysis*]\n
+Macarius Donneyong, Michael Fischer, Michael Langston, Joshua Joseph, Paul Juarez, Ping Zhang, David Kline\n
+/International Journal of Environmental Research and Public Health/ 18:12702, 2021\n
+
+- [https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01617-4 *Clinical connectivity map for drug repurposing: using laboratory results to bridge drugs and diseases*]\n
+Qianlong Wen, Ruoqi Liu, Ping Zhang\n
+/BMC Medical Informatics and Decision Making/ 21:263, 2021\n
+
+- [https://aclanthology.org/2021.findings-acl.23.pdf *Contrastive attention for automatic medical report generation*]\n
+Fenglin Liu, Changchang Yin, Xian Wu, Shen Ge, Ping Zhang, Xu Sun\n
+/Findings of Annual Meeting of the Association for Computational Linguistics/ (Findings of ACL), 2021\n
+
+- [https://ieeexplore.ieee.org/document/9449886 *NHBS-Net: A feature fusion attention network for ultrasound neonatal hip bone segmentation*]\n
+Ruhan Liu, Mengyao Liu, Bin Sheng, Huating Li, Ping Li, Haitao Song, Ping Zhang, Lixin Jiang, Dinggang Shen\n
+/IEEE Transactions on Medical Imaging/ (TMI) 40(12):3446--3458, 2021 (Impact factor: 10.048)\n
+
+- [https://web.cse.ohio-state.edu/~zhang.10631/files/survival_2021.pdf *A survival model generalized to regression learning algorithms*]\n
+Yuanfang Guan, Hongyang Li, Daiyao Yi, Dongdong Zhang, Changchang Yin, Keyu Li, Ping Zhang\n
+/Nature Computational Science/ 1:433--440, 2021\n
+
+- [https://arxiv.org/pdf/2104.10652.pdf *TransICD: Transformer based code-wise attention model for explainable ICD coding*]\n
+Biplob Biswas, Thai-Hoang Pham, Ping Zhang\n
+/International Conference on Artificial Intelligence in Medicine/ (AIME), 2021\n
+
+- [https://www.cell.com/iscience/fulltext/S2589-0042(21)00341-2 *Interpretable deep learning for automatic diagnosis of 12-lead electrocardiogram*]\n
+Dongdong Zhang, Samuel Yang, Xiaohui Yuan, Ping Zhang\n
+/iScience/ 24:102373, 2021 (Impact factor: 5.458)\n
+
+- [https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC8378613/ *Brain atlas guided attention U-net for white matter hyperintensity segmentation*]\n
+Zicong Zhang, Kimerly Powell, Changchang Yin, Shilei Cao, Dani Gonzalez, Yousef Hannawi, Ping Zhang\n
+/American Medical Informatics Association Informatics Summit/ (AMIA Summit), 2021 (Buckeye AI, one of the top solutions for [https://wmh.isi.uu.nl/results/ WMH Segmentation Challenge])\n
+
+- [https://doi.org/10.1111/bcp.14762 *A pharmacovigilance study of pharmacokinetic drug interactions using a translational informatics discovery approach*]\n
+Lei Wang, Aditi Shendre, Chien-Wei Chiang, Weidan Cao, Xia Ning, Ping Zhang, Pengyue Zhang, Lang Li\n
+/British Journal of Clinical Pharmacology/ (BJCP) 88(4):1471--1481, 2021\n
+
+- [https://www.nature.com/articles/s42256-020-00285-9 *A deep learning framework for high-throughput mechanism-driven phenotype compound screening and its application to COVID-19 drug repurposing*]\n
+Thai-Hoang Pham, Yue Qiu, Jucheng Zeng, Lei Xie, Ping Zhang\n
+/Nature Machine Intelligence/ 3:247--257, 2021 (Impact factor: 15.508. Selected Media Coverage: [https://www.nature.com/articles/s42256-021-00328-9 Nature Machine Intelligence], [https://news.osu.edu/computer-model-makes-strides-in-search-for-covid-19-treatments/ Ohio State News], [https://reachmd.com/programs/covid-19-frontlines/computer-model-combats-covid-19-finding-a-solution-through-deep-learning/12397/ ReachMD], [https://www.technologynetworks.com/drug-discovery/articles/automating-drug-discovery-with-machine-learning-347763 Technology Networks], [https://www.deeplearning.ai/the-batch/issue-83/ DeepLearning.AI])\n
+
+- [https://www.cell.com/patterns/fulltext/S2666-3899(20)30266-X *An interpretable deep-learning model for early prediction of sepsis in the emergency department*]\n
+Dongdong Zhang, Changchang Yin, Katherine Hunold, Xiaoqian Jiang, Jeffrey Caterino, Ping Zhang\n
+/Patterns/ 2:100196, 2021 (Buckeye AI, one of the winning teams for [https://sbmi.uth.edu/dii-challenge/ 2019 DII National Data Science Challenge])\n
+
+- [https://web.cse.ohio-state.edu/~zhang.10631/files/DeepIPW_2021.pdf *A deep learning framework for drug repurposing via emulating clinical trials on real-world patient data*]\n
+Ruoqi Liu, Lai Wei, Ping Zhang\n
+/Nature Machine Intelligence/ 3:68--75, 2021 (Impact factor: 15.508. Selected Media Coverage: [https://www.nature.com/articles/d41573-021-00006-w Nature Reviews Drug Discovery], [https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/ Ohio State News], [https://www.bio-itworld.com/news/2021/02/04/ai-based-approach-crunches-real-world-data-to-emulate-clinical-trials Bio-IT World], [https://neo.life/2021/02/ai-breathes-new-life-into-old-drugs/ NEO.LIFE], [https://managedhealthcareconnect.com/articles/drug-repurposing-expediting-discovery-through-novel-algorithmic-framework First Report Managed Care], [https://www.verywellhealth.com/researchers-use-ai-repurposing-medications-5096087 Verywell Health], [https://www.drugdiscoverynews.com/ai-finds-new-uses-for-old-drugs-15222 Drug Discovery News], [http://www.mittrchina.com/news/detail/5537 MIT Technology Review Chinese Edition])\n
+
+~~~
+
+~~~
+== 2020
+- [https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01331-7 *An interpretable risk prediction model for healthcare with pattern attention*]\n
+Sundreen Asad Kamal, Changchang Yin, Buyue Qian, Ping Zhang\n
+/BMC Medical Informatics and Decision Making/ 20:307, 2020\n
+
+- [https://arxiv.org/pdf/2008.13620.pdf *Estimating individual treatment effects with time-varying confounders*]\n
+Ruoqi Liu, Changchang Yin, Ping Zhang\n
+/IEEE International Conference on Data Mining/ (ICDM), 2020 (Acceptance rate: 91\/930 = 9.8%, regular paper, oral presentation)\n
+
+- [https://www.aclweb.org/anthology/2020.findings-emnlp.332/ *Document classification for COVID-19 literature*]\n
+Bernal Jiménez Gutiérrez, Juncheng Zeng, Dongdong Zhang, Ping Zhang, Yu Su\n
+/Findings of Empirical Methods in Natural Language Processing/ (Findings of EMNLP), 2020\n
+
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075465/ *Finding causal mechanistic drug-drug interactions from observational data*]\n
+Sanjoy Dey, Ping Zhang, Mohamed Ghalwash, Chandramouli Maduri, Daby Sow, Zach Shahn\n
+/American Medical Informatics Association Annual Symposium/ (AMIA), 2020\n
+
+- [https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01297-6 *Combining structured and unstructured data for predictive models: a deep learning approach*]\n
+Dongdong Zhang, Changchang Yin, Jucheng Zeng, Xiaohui Yuan, Ping Zhang\n
+/BMC Medical Informatics and Decision Making/ 20:280, 2020\n
+
+- [https://www.jmir.org/2020/9/e20645/ *Marrying medical domain knowledge with deep learning on electronic health records: a deep visual analytics approach*]\n
+Rui Li, Changchang Yin, Samuel Yang, Buyue Qian, Ping Zhang\n
+/Journal of Medical Internet Research/ (JMIR) 22(9):e20645, 2020 (Impact factor: 5.034. Featured on AMIA 2021 Year-in-Review)\n
+
+- [https://web.cse.ohio-state.edu/~zhang.10631/files/KDD2020_TAME.pdf *Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder*]\n
+Changchang Yin, Ruoqi Liu, Dongdong Zhang, Ping Zhang\n
+/ACM SIGKDD Conference on Knowledge Discovery and Data Mining/ (KDD), 2020 (Acceptance rate: 216\/1279 = 16.9%, research track, oral presentation)\n
+
+- [https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz718/5581350 *Graph embedding on biomedical networks: methods, applications and evaluations*]\n
+Xiang Yue, Zhen Wang, Jingong Huang, Srinivasan Parthasarathy, Soheil Moosavinasab, Yungui Huang, Simon Lin, Wen Zhang, Ping Zhang, Huan Sun\n
+/Bioinformatics/ 36(4):1241--1251, 2020 (Impact factor: 5.610)\n
+
+~~~
+
+~~~
+== 2019
+- [https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0999-1 *Towards early detection of adverse drug reactions: combining pre-clinical drug structures and post-market safety reports*]\n
+Ruoqi Liu, Ping Zhang\n
+/BMC Medical Informatics and Decision Making/ 19:279, 2019\n
+
+- [https://ieeexplore.ieee.org/document/8983320 *A systematic framework for drug repurposing based on literature mining*]\n
+Gaocai Dong, Ping Zhang, Jingya Yang, Dongdong Zhang, Jing Peng\n
+/IEEE International Conference on Bioinformatics and Biomedicine/ (BIBM), 2019\n
+
+- [https://web.cse.ohio-state.edu/~zhang.10631/files/icdm2019.pdf *Domain knowledge guided deep learning with electronic health records*]\n
+Changchang Yin, Rongjian Zhao, Buyue Qian, Xin Lv, Ping Zhang\n
+/IEEE International Conference on Data Mining/ (ICDM), 2019 (Acceptance rate: 95\/1046 = 9.1%, regular paper, oral presentation)\n
+
+- [https://dl.acm.org/doi/10.1145/3292500.3330928 *PerDREP: Personalized drug effectiveness prediction from longitudinal observational data*]\n
+Sanjoy Dey, Ping Zhang, Daby Sow, Kenney Ng\n
+/ACM SIGKDD Conference on Knowledge Discovery and Data Mining/ (KDD), 2019 (Acceptance rate: 111\/1179 = 9.4%, research track, oral presentation)\n
+
+~~~
+
+~~~
+== 2018
+- [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2544-0 *Predicting adverse drug reactions through interpretable deep learning framework*]\n
+Sanjoy Dey, Heng Luo, Achille Fokoue, Jianying Hu, Ping Zhang\n
+/BMC Bioinformatics/ 19(Suppl 21):476, 2018\n
+
+- [https://ieeexplore.ieee.org/document/8490893 *Systematic analysis of drug combinations that mitigate adverse drug reactions*]\n
+Jaehee Shim, Heng Luo, Ping Zhang, Ying Li\n
+/IBM Journal of Research and Development/ 62(6):7, 2018\n
+
+- [http://www.eurekaselect.com/162428/article *Molecular docking for prediction and interpretation of adverse drug reactions*]\n
+Heng Luo, Achille Fokoue, Nalini Singh, Lun Yang, Jianying Hu, Ping Zhang\n
+/Combinatorial Chemistry & High Throughput Screening/ 21(5): 314--322, 2018\n
+
+- [https://www.ijcai.org/proceedings/2018/468 *Interpretable drug target prediction using deep neural representation*]\n
+Kyle Yingkai Gao, Achille Fokoue, Heng Luo, Arun Iyengar, Sanjoy Dey, Ping Zhang\n
+/International Joint Conference on Artificial Intelligence/ (IJCAI), 2018\n
+
+- [https://ieeexplore.ieee.org/document/8416386 *A trusted health care data analytics cloud platform*]\n
+Arun Iyengar, Ashish Kundu, Upendra Sharma, Ping Zhang\n
+/International Conference on Distributed Computing Systems/ (ICDCS), 2018\n
+
+- [https://www.worldscientific.com/doi/abs/10.1142/9789813235533_0004 *Cell-specific prediction and application of drug-induced gene expression profiles*]\n
+Rachel Hodos, Ping Zhang, Hao-Chih Lee, Qiaonan Duan, Zichen Wang, Neil Clark, Avi Ma'ayan, Fei Wang, Brian Kidd, Jianying Hu, David Sontag, Joel Dudley\n
+/Pacific Symposium on Biocomputing/ (PSB), 2018\n
+
+~~~
+
+~~~
+== 2017
+- [https://www.sciencedirect.com/science/article/pii/S157082681730029X *Large-scale structural and textual similarity-based mining of knowledge graph to predict drug-drug interactions*]\n
+Ibrahim Abdelaziz, Achille Fokoue, Oktie Hassanzadeh, Ping Zhang, Mohammad Sadoghi\n
+/Journal of Web Semantics/ 44:104--117, 2017\n
+
+- [https://dl.acm.org/citation.cfm?id=3132847.3132986 *Exploiting electronic health records to mine drug effects on laboratory test results*]\n
+Mohamed Ghalwash, Ying Li, Ping Zhang, Jianying Hu\n
+/ACM International Conference on Information and Knowledge Management/ (CIKM), 2017\n
+
+- [http://ebooks.iospress.nl/publication/48196 *Precision cohort finding with outcome-driven similarity analytics: a case study of patients with atrial fibrillation*]\n
+Haifeng Liu, Xiang Li, Guotong Xie, Xin Du, Ping Zhang, Chengming Gu, Jingyi Hu\n
+/World Congress on Medical Health Informatics/ (MedInfo), 2017\n
+
+- [https://ieeexplore.ieee.org/document/8031602 *DrugPathSeeker: interactive UI for exploring drug-ADR relation via pathways*]\n
+Janu Verma, Heng Luo, Jianying Hu, Ping Zhang\n
+/IEEE Pacific Visualization Symposium/ (PacificVis), 2017\n
+
+- [https://epubs.siam.org/doi/10.1137/1.9781611974973.6 *Computational drug discovery with dyadic positive-unlabeled learning*]\n
+Yashu Liu, Shuang Qiu, Ping Zhang, Pinghua Gong, Fei Wang, Guoliang Xue, Jieping Ye\n
+/SIAM International Conference on Data Mining/ (SDM), 2017\n
+
+- [https://epubs.siam.org/doi/abs/10.1137/1.9781611974973.9 *Polyadic regression and its application to chemogenomics*]\n
+Ioakeim Perros, Fei Wang, Ping Zhang, Peter Walker, Richard Vuduc, Jyotishman Pathak, Jimeng Sun\n
+/SIAM International Conference on Data Mining/ (SDM), 2017\n
+
+- [https://dl.acm.org/doi/10.5555/3298239.3298439 *Multitask dyadic prediction and its application in prediction of adverse drug-drug interaction*]\n
+Bo Jin, Haoyu Yang, Cao Xiao, Ping Zhang, Xiaopeng Wei, Fei Wang\n
+/AAAI Conference on Artificial Intelligence/ (AAAI), 2017\n
+
+- [https://dl.acm.org/doi/abs/10.5555/3298239.3298470 *Adverse drug reaction prediction with symbolic latent dirichlet allocation*]\n
+Cao Xiao, Ping Zhang, W. Art Chaovalitwongse, Jianying Hu, Fei Wang\n
+/AAAI Conference on Artificial Intelligence/ (AAAI), 2017\n
+
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543383/ *Integrating temporal pattern mining in ischemic stroke prediction and treatment pathway discovery for atrial fibrillation*]\n
+Shijing Guo, Xiang Li, Haifeng Liu, Ping Zhang, Xin Du, Guotong Xie, Fei Wang\n
+/AMIA Joint Summits on Translational Science/ (AMIA Summits), 2017
+
+~~
+
+~~~
+== 2016 
+- [https://www.nature.com/articles/srep35996 *DPDR-CPI, a server that predicts Drug Positioning and Drug Repositioning via Chemical-Protein Interactome*]\n
+Heng Luo, Ping Zhang, Xi Hang Cao, Dizheng Du, Hao Ye, Hui Huang, Can Li, Shengying Qin, Chunling Wan, Leming Shi, Lin He, Lun Yang\n
+/Scientific Reports/ 6:35996, 2016\n
+
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5333223/ *Integrated machine learning approaches for predicting ischemic stroke and thromboembolism in atrial fibrillation*]\n
+Xiang Li, Haifeng Liu, Xin Du, Ping Zhang, Gang Hu, Guotong Xie, Shijing Guo, Meilin Xu, Xiaoping Xie\n
+/American Medical Informatics Association Annual Symposium/ (AMIA), 2016\n
+
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5333241/ *Data-driven prediction of beneficial drug combinations in spontaneous reporting systems*]\n
+Ying Li, Ping Zhang, Zhaonan Sun, Jianying Hu\n
+/American Medical Informatics Association Annual Symposium/ (AMIA), 2016\n
+
+- [http://ebooks.iospress.nl/publication/44675 *Using frequent item set mining and feature selection methods to identify interacted risk factors - the atrial fibrillation case study*]\n
+Xiang Li, Haifeng Liu, Xin Du, Gang Hu, Guotong Xie, Ping Zhang\n
+/Medical Informatics Europe/ (MIE), 2016\n
+
+- [https://link.springer.com/chapter/10.1007/978-3-319-34129-3_47 *Predicting drug-drug interactions through large-scale similarity-based link prediction*]\n
+Achille Fokoue, Mohammad Sadoghi, Oktie Hassanzadeh, Ping Zhang\n
+/Extended Semantic Web Conference/ (ESWC), 2016 (Best In-Use/Industrial Paper Award)\n
+
+- [https://epubs.siam.org/doi/10.1137/1.9781611974348.49 *Risk prediction with electronic health records: a deep learning approach*]\n
+Yu Cheng, Fei Wang, Ping Zhang, Jianying Hu\n
+/SIAM International Conference on Data Mining/ (SDM), 2016\n
+
+- [https://dl.acm.org/citation.cfm?id=2890532 *Predicting drug-drug interactions through similarity-based link prediction over web data*]\n
+Achille Fokoue, Oktie Hassanzadeh, Mohammad Sadoghi, Ping Zhang\n
+/International Conference Companion on World Wide Web/ (WWW Demo), 2016
+~~
+
+~~~
+== 2015
+- [https://www.nature.com/articles/srep12339 *Label propagation prediction of drug-drug interactions based on clinical side effects*] ([https://web.cse.ohio-state.edu/~zhang.10631/bak/ddi.html supplementary materials])\n
+Ping Zhang, Fei Wang, Jianying Hu, Robert Sorrentino\n
+/Scientific Reports/ 5:12339, 2015
+~~~
+
+~~~
+== 2014
+- [https://www.nature.com/articles/srep07160 *Systematic prediction of drug combinations based on clinical side-effects*]\n
+Hui Huang, Ping Zhang, Xiaoyan A. Qu, Philippe Sanseau, Lun Yang\n
+/Scientific Reports/ 4:7160, 2014\n
+
+- [https://academic.oup.com/nar/article/42/W1/W46/2437493 *DDI-CPI, a server that predicts Drug-Drug Interactions through implementing the Chemical-Protein Interactome*]\n
+Heng Luo, Ping Zhang, Hui Huang, Jialiang Huang, Emily Kao, Leming Shi, Lin He, Lun Yang\n
+/Nucleic Acids Research/ 42(Web Server issue):W46--W52, 2014\n
+
+- [https://www.sciencedirect.com/science/article/pii/S1532046414000811?via%3Dihub *Exploring the associations between drug side-effects and therapeutic indications*]\n
+Fei Wang, Ping Zhang, Nan Cao, Jianying Hu, Robert Sorrentino\n
+/Journal of Biomedical Informatics/ 51:15--23, 2014\n
+
+- [https://academic.oup.com/jamia/article/21/2/337/724708 *Predicting changes in hypertension control using electronic health records from a chronic disease management program*]\n
+Jimeng Sun, Candace D McNaughton, Ping Zhang, Adam Perer, Aris Gkoulalas-Divanis, Joshua C Denny, Jacqueline Kirby, Thomas Lasko, Alexander Saip, Bradley A Malin\n
+/Journal of the American Medical Informatics Association/ 21(2):337--344, 2014\n
+
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4419869/ *Towards drug repositioning: a unified computational framework for integrating multiple aspects of drug similarity and disease similarity*] ([https://web.cse.ohio-state.edu/~zhang.10631/bak/ddr_bcd.pdf supplementary materials])\n
+Ping Zhang, Fei Wang, Jianying Hu\n
+/American Medical Informatics Association Annual Symposium/ (AMIA), 2014\n
+
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4419990/ *Clinical risk prediction by exploring high-order feature correlations*]\n
+Fei Wang, Ping Zhang, Xiang Wang, Jianying Hu\n
+/American Medical Informatics Association Annual Symposium/ (AMIA), 2014\n
+
+- [https://dl.acm.org/citation.cfm?id=2623755 *Clinical risk prediction with multilinear sparse logistic regression*]\n
+Fei Wang, Ping Zhang, Buyue Qian, Xiang Wang, Ian Davidson\n
+/ACM SIGKDD Conference on Knowledge Discovery and Data Mining/ (KDD), 2014\n
+
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4333693/ *Towards personalized medicine: leveraging patient similarity and drug similarity analytics*]\n
+Ping Zhang, Fei Wang, Jianying Hu, Robert Sorrentino\n
+/AMIA Joint Summits on Translational Science/ (AMIA Summits), 2014 (Nomination for Marco Ramoni Distinguished Paper Award)
+
+~~~
+
+~~~
+== 2013
+- [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-14-S12-S5 *Learning by aggregating experts and filtering novices: a solution to crowdsourcing problems in bioinformatics*]\n
+Ping Zhang, Weidan Cao, Zoran Obradovic\n
+/BMC Bioinformatics/ 14(Suppl 12):S5, 2013\n
+
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3900166/ *Exploring the relationship between drug side-effects and therapeutic indications*] ([https://web.cse.ohio-state.edu/~zhang.10631/bak/druganalysis.html supplementary materials])\n
+Ping Zhang, Fei Wang, Jianying Hu, Robert Sorrentino\n
+/American Medical Informatics Association Annual Symposium/ (AMIA), 2013\n
+
+- [https://link.springer.com/chapter/10.1007/978-3-642-40994-3_37 *Computational drug repositioning by ranking and integrating multiple data sources*] ([https://web.cse.ohio-state.edu/~zhang.10631/bak/drugreposition.html supplementary materials])\n
+Ping Zhang, Pankaj Agarwal, Zoran Obradovic\n
+/European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases/ (ECML/PKDD), 2013
+
+~~~
+
+~~~ 
+== 2012 and Earlier
+- [https://ieeexplore.ieee.org/document/6406706 *Semi-supervised learning on single-view datasets by integration of multiple co-trained classifiers*]\n
+Jelena Slivka, Ping Zhang, Aleksandar Kovacevic, Zora Konjovic, Zoran Obradovic\n
+/International Conference on Machine Learning and Applications/ (ICMLA), 2012\n
+
+- [https://ieeexplore.ieee.org/document/6392657 *Integration of multiple annotators by aggregating experts and filtering novices*]\n
+Ping Zhang, Zoran Obradovic\n
+/IEEE International Conference on Bioinformatics and Biomedicine/ (BIBM), 2012\n
+
+- [https://proteomesci.biomedcentral.com/articles/10.1186/1477-5956-9-S1-S12 *Unsupervised integration of multiple protein disorder predictors: the method and evaluation on CASP7, CASP8 and CASP9 data*]\n
+Ping Zhang, Zoran Obradovic\n
+/Proteome Science/ 9(Suppl 1):S12, 2011\n
+
+- [https://link.springer.com/chapter/10.1007/978-3-642-23808-6_36 *Learning from inconsistent and unreliable annotators by a Gaussian mixture model and Bayesian information criteria*]\n
+Ping Zhang, Zoran Obradovic\n
+/European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases/ (ECML/PKDD), 2011\n
+
+- [https://ieeexplore.ieee.org/document/5706534 *Unsupervised integration of multiple protein disorder predictors*]\n
+Ping Zhang, Zoran Obradovic\n
+/IEEE International Conference on Bioinformatics and Biomedicine/ (BIBM), 2010\n
+
+~~~  
