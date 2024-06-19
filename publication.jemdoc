@@ -7,13 +7,21 @@
 ~~~
 == 2024
 
+- [https://doi.org/10.1177/21925682241261342 *Machine learning in spine oncology: A narrative review*]\n
+Seth B. Wilson, Jacob Ward, Vikas Munjal, Chi Shing Adrian Lam, Mayur Patel, Ping Zhang, David S. Xu, Vikram B. Chakravarthy\n
+/Global Spine Journal/, 2024\n
+
+- [https://doi.org/10.1007/s00371-024-03384-5 *HRDC challenge: A public benchmark for hypertension and hypertensive retinopathy classification from fundus images*]\n
+Bo Qian, Xiangning Wang, Zhouyu Guan, Dawei Yang, Anran Ran, Tingyao Li, Zheyuan Wang, Yang Wen, Xinming Shu, Jinyang Xie, Shichang Liu, Guanyu Xing, Julio Silva-Rodriguez, Riadh Kobbi, Ping Li, Tingli Chen, Lei Bi, Jinman Kim, Weiping Jia, Huating Li, Jing Qin, Ping Zhang, Ching-Yu Cheng, Pheng-Ann Heng, Tien Yin Wong, Carol Y. Cheung, Yih-Chung Tham, Nadia Magnenat Thalmann, Bin Sheng\n
+/The Visual Computer/, 2024\n
+
 - [https://link.springer.com/article/10.1007/s41666-024-00167-4 *DDE: Deep dynamic epidemiological modeling for infectious illness development forecasting in multi-level geographic entities*]\n
 Ruhan Liu, Jiajia Li, Yang Wen, Huating Li, Ping Zhang, Bin Sheng, David Dagan Feng\n
 /Journal of Healthcare Informatics Research/, 2024\n
 
 - [https://arxiv.org/pdf/2405.03943 *Predictive modeling with temporal graphical representation on electronic health records*]\n
 Jiayuan Chen, Changchang Yin, Yuanlong Wang, Ping Zhang\n
-/International Joint Conference on Artificial Intelligence/ (IJCAI), 2024\n
+/International Joint Conference on Artificial Intelligence/ (IJCAI), 2024 (Main track, oral presentation)\n
 
 - [https://arxiv.org/pdf/2405.06816v1 *Non-stationary domain generalization: Theory and algorithm*]\n
 Thai-Hoang Pham, Xueru Zhang, Ping Zhang\n
@@ -21,7 +29,7 @@ Thai-Hoang Pham, Xueru Zhang, Ping Zhang\n
 
 - [https://www.cell.com/patterns/fulltext/S2666-3899(24)00081-3 *CURE: A deep learning framework pre-trained on large-scale patient data for treatment effect estimation*]\n
 Ruoqi Liu, Pin-Yu Chen, Ping Zhang\n
-/Patterns/ 5:100973, 2024 (Impact factor: 6.5. Selected Media Coverage: [https://news.osu.edu/with-huge-patient-dataset-ai-accurately-predicts-treatment-outcomes Ohio State News], [https://www.azorobotics.com/News.aspx?newsID=14824 AZoRobotics], [https://healthitanalytics.com/news/deep-learning-framework-predicts-drug-effectiveness-treatment-outcomes HealthITAnalytics])\n
+/Patterns/ 5:100973, 2024 (Impact factor: 6.5. [https://www.cell.com/patterns/fulltext/S2666-3899(24)00130-2 Preview] on /Patterns/. Selected Media Coverage: [https://news.osu.edu/with-huge-patient-dataset-ai-accurately-predicts-treatment-outcomes Ohio State News], [https://www.clinicalresearchnewsonline.com/news/2024/06/06/ai-model-estimates-treatment-effect-on-par-with-clinical-trials Clinical Research News], [https://healthitanalytics.com/news/deep-learning-framework-predicts-drug-effectiveness-treatment-outcomes HealthITAnalytics], [https://www.azorobotics.com/News.aspx?newsID=14824 AZoRobotics])\n
 
 - [https://arxiv.org/pdf/2309.12368.pdf *Rethinking human-AI collaboration in complex medical decision making: A case study in sepsis diagnosis*]\n
 Shao Zhang, Jianing Yu, Xuhai Xu, Changchang Yin, Yuxuan Lu, Bingsheng Yao, Melanie Tory, Lace M Padilla, Jeffrey Caterino, Ping Zhang, Dakuo Wang\n
