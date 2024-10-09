@@ -1,0 +1,19 @@
+Postdoctoral Researcher Positions in Human-Computer Interaction (HCI) at The Ohio State University
+
+Multiple postdoctoral researcher positions are available at The Ohio State University (OSU) and OSU Wexner Medical Center (OSUWMC). The position offers an excellent opportunity to research in an interdisciplinary team with healthcare professionals, computer science/AI experts, and health communication/implementation science experts. The postdoctoral researcher is expected to design and evaluate AI-based systems for clinical decision-making and/or disease management, conduct surveys and interviews with clinicians and patients, and publish high-quality papers in top computer science conferences and biomedicine journals. The postdoctoral researcher will work closely with Dr. Ping Zhang (https://www.pingzhang.net/) in the Department of Computer Science and Engineering at OSU, and Dr. Weidan Cao (https://medicine.osu.edu/find-faculty/non-clinical/biomedical-informatics/weidan-cao) in College of Medicine and College of Public Health at OSUWMC. The positions will be a full-time appointment for 12 months, with the possibility of renewal and promotion dependent on research performance and mutual interests.
+
+Qualifications:
+- PhD in related subject areas, such as computer science, information science, and health/biomedical informatics;
+- Familiar with qualitative and quantitative research methods in HCI;
+- Experience in designing interactive systems with advanced AI/ML technologies;
+- Experience in human-centered design, and usability testing;
+- Experience in publishing multiple first-author research articles in peer-reviewed HCI conferences such as CHI, CSCW, UIST, IMWUT, or similar;
+- Excellent oral and written communication skills and ability to work in a collaborative environment, to coordinate and lead part of the research project.
+
+Interested applicants can contact Dr. Weidan Cao at weidan.cao@osumc.edu and cc Dr. Ping Zhang at zhang.10631@osu.edu by sending the following documents:
+- cover letter with research interests/plans and preferred starting date;
+- a current CV with a full list of publications;
+- 2 representative publications in HCI;
+- contact information for 2 references.
+
+* Visiting students/scholars are also welcome.
