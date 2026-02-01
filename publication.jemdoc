@@ -6,6 +6,27 @@
 
 ~~~
 == 2026
+
+- *LiveClin: A live clinical benchmark without leakage*\n
+Xidong Wang, Shuqi Guo, Yue Shen, Junying Chen, Jian Wang, Jinjie Gu, Ping Zhang, Lei Liu, Benyou Wang\n
+/International Conference on Learning Representations/ (ICLR), 2026\n
+
+- *Exploring collaboration breakdowns between provider teams and patients in post-surgery care*\n
+Bingsheng Yao, Menglin Zhao, Zhan Zhang, Pengqi Wang, Emma Chester, Changchang Yin, Tianshi Li, Varun Mishra, Lace Padilla, Odysseas Chatzipanagiotou, Timothy Pawlik, Ping Zhang, Weidan Cao, Dakuo Wang\n
+/ACM CHI Conference on Human Factors in Computing Systems/ (CHI), 2026 (Acceptance rate: 1703\/6730 = 25.3%)\n
+
+- *Multi-to-uni modal knowledge transfer pre-training for molecular representation learning*\n
+Zhankun Xiong, Ziyan Wang, Feng Huang, Minyao Qiu, Shuyan Fang, Liuqing Yang, Xionghui Zhou, Shichao Liu, Ping Zhang, Wen Zhang\n
+/Nature Communications/, 2026 (Impact factor: 15.7)\n
+
+- [https://dl.acm.org/doi/10.1145/3787464 *Federated inverse probability treatment weighting for individual treatment effect estimation*]\n
+Changchang Yin, Hong-You Chen, Wei-Lun Chao, Ping Zhang\n
+/ACM Transactions on Intelligent Systems and Technology/ (TIST), 2026 (Impact factor: 6.6)\n
+
+- [https://dl.acm.org/doi/10.1145/3788689 *WatchGuardian: Enabling user-defined personalized just-in-time intervention on smartwatch*]\n
+Ying Lei, Yancheng Cao, Will Ke Wang, Yuanzhe Dong, Changchang Yin, Weidan Cao, Ping Zhang, Jingzhen Yang, Bingsheng Yao, Yifan Peng, Chunhua Weng, Randy Auerbach, Lena Mamykina, Dakuo Wang, Yuntao Wang, Xuhai Xu\n
+ACM Transactions on Computing for Healthcare, 2026 (Impact factor: 8.0)
+
 - [https://arxiv.org/pdf/2511.06293 *Achieving fairness without harm via selective demographic experts*]\n
 Xuwei Tan, Yuanlong Wang, Thai-Hoang Pham, Ping Zhang, Xueru Zhang\n
 /AAAI Conference on Artificial Intelligence/ (AAAI), 2026 (Acceptance rate: 167\/693 = 24.1%, special track of AI for Social Impact)\n
