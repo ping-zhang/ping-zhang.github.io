@@ -15,7 +15,7 @@ Jiayuan Chen, Ruoqi Liu, Zishan Gu, Ping Zhang\n
 Yuanlong Wang, Weichi Chen, Adrian Rajab, Wenfang Liu, Yulan Jin, Andrew Srisuwananukorn, Ping Zhang\n
 /Findings of IEEE\/CVF Conference on Computer Vision and Pattern Recognition/ (Findings of CVPR), 2026\n
 
-- *Teach multimodal LLMs to comprehend electrocardiographic images*\n
+- [https://www.nature.com/articles/s41746-026-02551-3 *Teaching multimodal LLMs to comprehend 12-lead electrocardiographic images*]\n
 Ruoqi Liu, Yuelin Bai, Xiang Yue, Ping Zhang\n
 /npj Digital Medicine/, 2026 (Impact factor: 15.1)\n
 
@@ -31,8 +31,8 @@ Bingsheng Yao, Menglin Zhao, Zhan Zhang, Pengqi Wang, Emma Chester, Changchang Y
 Zhankun Xiong, Ziyan Wang, Feng Huang, Minyao Qiu, Shuyan Fang, Liuqing Yang, Xionghui Zhou, Shichao Liu, Ping Zhang, Wen Zhang\n
 /Nature Communications/, 2026 (Impact factor: 15.7)\n
 
-- *Time and person sensitive foundation model for disease prediction and risk stratification*\n
-Zheyuan Wang, Yukun Zhou, Yilan Wu, Jocelyn Hui Lin Goh, Ke Zou, Zhouyu Guan, Yibing Chen, Gabriel Dawei Yang, Ping Zhang, Changchang Yin, An Ran Ran, Miao Li Chee, Cancan Xue, Zhida Soh, Samantha Yew, Danqi Fang, Xujia Liu, Benjamin Sommer Thinggaard, Jakob Grauslund, Haoxuan Li, Yixiao Jin, Jia Shu, Tingyao Li, Nan Jiang, Tingli Chen, Huating Li, Xiangning Wang, Qiang Wu, Charumathi Sabanayagam, Siegfried K Wagner, Carol Y. Cheung, Ching-Yu Cheng, Bin Sheng, Tien Yin Wong, Pearse A. Keane, Yih-Chung Tham\n
+- [https://www.nature.com/articles/s41746-026-02524-6 *Time and person sensitive foundation model for disease prediction and risk stratification*]\n
+Zheyuan Wang, Yukun Zhou, Yilan Wu, Jocelyn Hui Lin Goh, Ke Zou, Zhouyu Guan, Yibing Chen, Gabriel Dawei Yang, Ping Zhang, Changchang Yin, An Ran Ran, Miao Li Chee, Cancan Xue, Zhida Soh, Samantha Yew, Danqi Fang, Xujia Liu, Benjamin Sommer Thinggaard, Jakob Grauslund, Haoxuan Li, Yixiao Jin, Jia Shu, Tingyao Li, Nan Jiang, Tingli Chen, Huating Li, Xiangning Wang, Qiang Wu, Charumathi Sabanayagam, Siegfried K. Wagner, Carol Y. Cheung, Ching-Yu Cheng, Bin Sheng, Tien Yin Wong, Pearse A. Keane, Yih-Chung Tham\n
 /npj Digital Medicine/, 2026 (Impact factor: 15.1)\n
 
 - [https://dl.acm.org/doi/10.1145/3787464 *Federated inverse probability treatment weighting for individual treatment effect estimation*]\n
