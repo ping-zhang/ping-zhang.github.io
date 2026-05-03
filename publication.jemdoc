@@ -7,11 +7,11 @@
 ~~~
 == 2026
 
-- *Intervention-aware multiscale representation learning from imaging phenomics and perturbation transcriptomics*\n
+- [https://arxiv.org/pdf/2604.22832 *Intervention-aware multiscale representation learning from imaging phenomics and perturbation transcriptomics*]\n
 Jiayuan Chen, Ruoqi Liu, Zishan Gu, Ping Zhang\n
 /The IEEE\/CVF Conference on Computer Vision and Pattern Recognition/ (CVPR), 2026 (Acceptance rate: 4090\/16092 = 25.4%)\n
 
-- *PBSBench: A multi-level vision-language framework and benchmark for hematopathology whole slide image interpretation*\n
+- [https://arxiv.org/pdf/2604.17570 *PBSBench: A multi-level vision-language framework and benchmark for hematopathology whole slide image interpretation*]\n
 Yuanlong Wang, Weichi Chen, Adrian Rajab, Wenfang Liu, Yulan Jin, Andrew Srisuwananukorn, Ping Zhang\n
 /Findings of IEEE\/CVF Conference on Computer Vision and Pattern Recognition/ (Findings of CVPR), 2026\n
 
@@ -34,6 +34,22 @@ Zhankun Xiong, Ziyan Wang, Feng Huang, Minyao Qiu, Shuyan Fang, Liuqing Yang, Xi
 - [https://www.nature.com/articles/s41746-026-02524-6 *Time and person sensitive foundation model for disease prediction and risk stratification*]\n
 Zheyuan Wang, Yukun Zhou, Yilan Wu, Jocelyn Hui Lin Goh, Ke Zou, Zhouyu Guan, Yibing Chen, Gabriel Dawei Yang, Ping Zhang, Changchang Yin, An Ran Ran, Miao Li Chee, Cancan Xue, Zhida Soh, Samantha Yew, Danqi Fang, Xujia Liu, Benjamin Sommer Thinggaard, Jakob Grauslund, Haoxuan Li, Yixiao Jin, Jia Shu, Tingyao Li, Nan Jiang, Tingli Chen, Huating Li, Xiangning Wang, Qiang Wu, Charumathi Sabanayagam, Siegfried K. Wagner, Carol Y. Cheung, Ching-Yu Cheng, Bin Sheng, Tien Yin Wong, Pearse A. Keane, Yih-Chung Tham\n
 /npj Digital Medicine/, 2026 (Impact factor: 15.1)\n
+
+- [https://academic.oup.com/jamiaopen/article/9/2/ooag063/8664920 *Area-specific autoencoder spatiotemporal graph neural networks for opioid overdose death prediction*]\n
+Xianhui Chen, Changchang Yin, John Myers, Brandon Slover, Neena Thomas, Charles Marks, Joanne Kim, Soledad Fernandez, Penn Whitley, Naleef Fareed, Ping Zhang\n
+/JAMIA Open/ 9(2):ooag063, 2026\n
+
+- [https://www.medrxiv.org/content/10.64898/2026.03.18.26348454v2.full.pdf *Opioid overdose death prediction with graph neural networks*]\n
+Xianhui Chen, Zishan Gu, John Myers, Joanne Kim, Changchang Yin, Naleef Fareed, Neena Thomas, Soledad Fernandez, Ping Zhang\n
+/American Medical Informatics Association Informatics Summit/ (AMIA Summit), 2026\n
+
+- [https://www.medrxiv.org/content/10.64898/2026.03.20.26348832v1.full.pdf *REACT (real-world emulated clinical trials): A framework for drug repurposing applied to osteoporotic fractures*]\n
+Jianing Liu, Seungyeon Lee, Xianhui Chen, Soledad Fernandez, Qing Wu, Ping Zhang\n
+/American Medical Informatics Association Informatics Summit/ (AMIA Summit), 2026\n
+
+- [https://aclanthology.org/2026.eacl-demo.26/ *ClinicalTrialsHub: Bridging registries and literature for comprehensive clinical trial access*]\n
+Jiwoo Park, Ruoqi Liu, Avani Jagdale, Andrew Srisuwananukorn, Jing Zhao, Lang Li, Ping Zhang, Sachin Kumar\n
+/Conference of the European Chapter of the Association for Computational Linguistics/ (EACL), 2026 (System demonstrations track)\n
 
 - [https://dl.acm.org/doi/10.1145/3787464 *Federated inverse probability treatment weighting for individual treatment effect estimation*]\n
 Changchang Yin, Hong-You Chen, Wei-Lun Chao, Ping Zhang\n
