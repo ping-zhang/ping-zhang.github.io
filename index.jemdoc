@@ -5,6 +5,7 @@
 {}{img_left}{photos/bio.jpg}{alt text}{160}{160}{http://pingzhang.net}
 Ping Zhang, PhD, FAMIA, FIAHSI \n
 Professor \n
+Division Chief of AI in Digital Health \n
 [http://cse.osu.edu/ Department of Computer Science and Engineering] \n
 [http://bmi.osu.edu/ Department of Biomedical Informatics] \n
 [http://www.osu.edu/ The Ohio State University] \n
@@ -16,7 +17,7 @@ Office: Lincoln Tower 310G
 ~~~
 
 == Short Biography
-Ping Zhang is a Full Professor at The Ohio State University (OSU), with joint appointments at the Department of Computer Science and Engineering (CSE), and the Department of Biomedical Informatics (BMI). He serves as Chief of the Division of Artificial Intelligence in Digital Health (AIDH) at OSU and Director of the AIDH Core at the OSU Wexner Medical Center (OSUWMC). He also leads the Artificial Intelligence in Medicine (AIMed) Lab. His research focuses on {{<font size=+1.00><b>}}machine learning{{</b></font>}}, {{<font size=+1.00><b>}}data mining{{</b></font>}}, and their applications to {{<font size=+1.00><b>}}foundation models{{</b></font>}} (e.g., large language models, large vision models, large multimodal models, AI agents), {{<font size=+1.00><b>}}trustworthy AI{{</b></font>}} (e.g., explainability, robustness, domain generalization, causal inference, uncertainty quantification, human-AI collaboration), {{<font size=+1.00><b>}}computational medicine{{</b></font>}} (e.g., predictive modeling, medical imaging, clinical NLP, real-world evidence, drug discovery \& development).
+Ping Zhang is a Full Professor at The Ohio State University (OSU), with joint appointments at the Department of Computer Science and Engineering (CSE), and the Department of Biomedical Informatics (BMI). He leads the Artificial Intelligence in Medicine (AIMed) Lab. He serves as the Division Chief of Artificial Intelligence in Digital Health (AIDH) at OSU and the Director of the AIDH Core at the OSU Wexner Medical Center (OSUWMC). His research focuses on {{<font size=+1.00><b>}}machine learning{{</b></font>}}, {{<font size=+1.00><b>}}data mining{{</b></font>}}, and their applications to {{<font size=+1.00><b>}}foundation models{{</b></font>}} (e.g., large language models, large vision models, large multimodal models, AI agents), {{<font size=+1.00><b>}}trustworthy AI{{</b></font>}} (e.g., explainability, robustness, domain generalization, causal inference, uncertainty quantification, human-AI collaboration), {{<font size=+1.00><b>}}computational medicine{{</b></font>}} (e.g., predictive modeling, medical imaging, clinical NLP, real-world evidence, drug discovery \& development).
 
 == Openings
 [lab.html AIMed Lab] currently has openings for [files/ad_phd.txt PhD students (Spring\/Fall 2027)], [files/ad_postdoc.txt postdoctoral associates (AI/ML)], [files/ad_postdoc_hci.txt postdoctoral associates (HCI)], and visiting scholars with research interests related to trustworthy machine learning, causal inference, and AI algorithms in medicine. Please reach out to Dr. Ping Zhang via email if you are interested.
