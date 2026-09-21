@@ -17,16 +17,57 @@ Office: Lincoln Tower 310G
 ~~~
 
 == Short Biography
-Ping Zhang is a Full Professor at The Ohio State University (OSU), with joint appointments at the Department of Computer Science and Engineering (CSE), and the Department of Biomedical Informatics (BMI). He leads the Artificial Intelligence in Medicine (AIMed) Lab. He serves as the Division Chief of Artificial Intelligence in Digital Health (AIDH) at OSU and the Director of the AIDH Core at the OSU Wexner Medical Center (OSUWMC). His research focuses on {{<font size=+1.00><b>}}machine learning{{</b></font>}}, {{<font size=+1.00><b>}}data mining{{</b></font>}}, and their applications to {{<font size=+1.00><b>}}foundation models{{</b></font>}} (e.g., large language models, large vision models, large multimodal models, AI agents), {{<font size=+1.00><b>}}trustworthy AI{{</b></font>}} (e.g., explainability, robustness, domain generalization, causal inference, uncertainty quantification, human-AI collaboration), {{<font size=+1.00><b>}}computational medicine{{</b></font>}} (e.g., predictive modeling, medical imaging, clinical NLP, real-world evidence, drug discovery \& development).
+Ping Zhang is a Full Professor at The Ohio State University (OSU), with joint appointments in the Department of Computer Science and Engineering (CSE) and the Department of Biomedical Informatics (BMI). He serves as the Division Chief of Artificial Intelligence in Digital Health (AIDH) at OSU and the Director of the AIDH Core at the OSU Wexner Medical Center (OSUWMC).
+
+He leads the Artificial Intelligence in Medicine (AIMed) Lab, which develops machine learning methods to answer a core clinical question: which treatments work, for whom, and when? His research connects cellular-level perturbation data (such as imaging and transcriptomics) with population-level real-world evidence (EHRs and claims) via causal 
+inference that emulates clinical trials on observational data. He and his team deploy and evaluate clinical AI systems in live hospital workflows alongside practicing clinicians, including in randomized controlled trials.
+
+== Research Themes
+We work on causal inference, multimodal representation learning, foundation model evaluation, and human-AI interaction. Recent work appears at CVPR, ICCV, NeurIPS, ICLR, KDD, AAAI, and CHI, as well as in /Nature Machine Intelligence/ and /Nature Medicine/.
+
+=== Foundation Models \& LLM Agents
+/We build and evaluate medical LLMs, vision-language models, and agent systems, using benchmarks grounded in real clinical data instead of static leaderboards./
+- Ruoqi Liu et al. Teaching multimodal LLMs to comprehend 12-lead electrocardiographic images. /npj Digital Medicine/, 2026.
+- Jiahao Xu et al. SurgWound-Bench: A benchmark for surgical wound diagnosis. /npj Digital Medicine/, 2026.
+- Yuanlong Wang et al. PBSBench: A multi-level vision-language framework and benchmark for hematopathology whole slide image interpretation. /Findings of CVPR/, 2026.
+- Zishan Gu et al. MedVH: Towards systematic evaluation of hallucination for large vision language models in the medical context. /Advanced Intelligent Systems/, 2025.
+- Yilan Wu et al. An eyecare foundation model for clinical assistance: a randomized controlled trial. /Nature Medicine/, 2025.
+
+=== Phenotypic Drug Discovery from Multimodal Data
+/We learn representations of how cells respond to compounds, from transcriptomic profiles to high-content microscopy imaging, to identify and repurpose drug candidates./
+- Thai-Hoang Pham et al. A deep learning framework for high-throughput mechanism-driven phenotype compound screening and its application to COVID-19 drug repurposing. /Nature Machine Intelligence/, 2021.
+- Thai-Hoang Pham et al. Chemical-induced gene expression ranking and its application to pancreatic cancer drug repurposing. /Patterns/, 2022.
+- Thai-Hoang Pham et al. FAME: fragment-based conditional molecular generation for phenotypic drug discovery. /SDM/, 2022.
+- Jiayuan Chen et al. Integrating biological knowledge for robust microscopy image profiling on de novo cell lines. /ICCV/ (Highlight, 2.3\%), 2025.
+- Jiayuan Chen et al. Intervention-aware multiscale representation learning from imaging phenomics and perturbation transcriptomics. /CVPR/, 2026.
+
+=== Causal Inference \& Real-World Evidence
+/We estimate treatment effects from observational patient data, emulating clinical trials to determine which treatments work, for whom, and when./
+- Seungyeon Lee et al. A deep subgrouping framework for precision drug repurposing via emulating clinical trials on real-world patient data. /KDD/, 2025.
+- Ruoqi Liu et al. KG-TREAT: Pre-training for treatment effect estimation by synergizing patient data with knowledge graphs. /AAAI/, 2024.
+- Ruoqi Liu et al. CURE: A deep learning framework pre-trained on large-scale patient data for treatment effect estimation. /Patterns/, 2024.
+- Ruoqi Liu et al. Estimating treatment effects for time-to-treatment antibiotic stewardship in sepsis. /Nature Machine Intelligence/, 2023.
+- Ruoqi Liu et al. A deep learning framework for drug repurposing via emulating clinical trials on real-world patient data. /Nature Machine Intelligence/, 2021.
+
+=== Clinical Deployment \& Human-AI Collaboration
+/We build decision support systems that quantify their own uncertainty and are tested in real hospital settings, studying how clinicians and models actually work together./
+- Thai-Hoang Pham et al. The boundaries of fair AI in medical image prognosis: A causal perspective. /NeurIPS/, 2025.
+- Changchang Yin et al. SepsisCalc: Integrating clinical calculators into early sepsis prediction via dynamic temporal graph construction. /KDD/, 2025.
+- Shao Zhang et al. Rethinking human-AI collaboration in complex medical decision making: A case study in sepsis diagnosis. /CHI/, 2024.
+- Changchang Yin et al. SepsisLab: Early sepsis prediction with uncertainty quantification and active sensing. /KDD/, 2024.
+- Changchang Yin et al. Deconfounding actor-critic network with policy adaptation for dynamic treatment regimes. /KDD/, 2022.
+
+(For a complete chronological list of our work, please see the [publications.html Full Publications] page)
 
 == Openings
-[lab.html AIMed Lab] currently has openings for [files/ad_phd.txt PhD students (Spring\/Fall 2027)], [files/ad_postdoc.txt postdoctoral associates (AI/ML)], [files/ad_postdoc_hci.txt postdoctoral associates (HCI)], and visiting scholars with research interests related to trustworthy machine learning, causal inference, and AI algorithms in medicine. Please reach out to Dr. Ping Zhang via email if you are interested.
+[lab.html AIMed Lab] currently has openings for [files/ad_phd.txt PhD students (Spring\/Fall 2027)], [files/ad_postdoc.txt postdoctoral associates (AI/ML)], [files/ad_postdoc_hci.txt postdoctoral associates (HCI)], and visiting scholars with research interests related to multimodal LLMs, AI agents, causal inference, and medical image analysis. Please reach out to Dr. Ping Zhang via email if you are interested.
 
 == Research Support
 Our lab gratefully acknowledges ongoing and past support from NSF (e.g., CAREER [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2145625 IIS-2145625], SenSE [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2037398 CBET-2037398]), NIH (e.g., R01 [https://reporter.nih.gov/project-details/11063494 NIAID-R01AI188576], R01 [https://reporter.nih.gov/project-details/10185087 NIGMS-R01GM141279], R01 [https://reporter.nih.gov/project-details/11168498 NCI-R01CA301579], R01 [https://reporter.nih.gov/project-details/11274912 NICHD-R01HD120364], R25 [https://reporter.nih.gov/project-details/10631689 NLM-R25LM014223], R01 [https://reporter.nih.gov/project-details/11273386 NIA-R01AG097722], R01 [https://reporter.nih.gov/project-details/10590246 NIDA-R01DA057668], R01 [https://reporter.nih.gov/project-details/10504585 NCI-R01CA273924], R01 [https://reporter.nih.gov/project-details/9731584 NIGMS-R01GM122845], R21 [https://reporter.nih.gov/project-details/10217710 NIBIB-R21EB030294]), Ohio Department of Medicaid, Google, Lyntek Medical Technologies, Lindonlight Collective, Medforall, PharmaEssentia, and Nationwide Children's Hospital.
 
 == Professional Activities
 - Action Editor, [https://jmlr.org/tmlr/index.html Transactions on Machine Learning Research (TMLR)], 2026-present
+- Founder and Organizer, AI for Health Grand Round, The Ohio State University, 2026-present
 - IAHSI Fellow, 2025-present
 - AMIA Fellow, 2020-present
 - IEEE Senior Member, 2018-present
