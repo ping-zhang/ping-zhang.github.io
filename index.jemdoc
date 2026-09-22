@@ -23,7 +23,7 @@ Ping Zhang is a Full Professor at The Ohio State University (OSU), with joint ap
 He leads the Artificial Intelligence in Medicine (AIMed) Lab, which develops machine learning methods to answer a core clinical question: which treatments work, for whom, and when? The lab advances multimodal LLMs, AI agents, and causal inference, working across cellular perturbation data and population-scale patient records, and deploys the resulting systems in live hospital settings.
 
 == Research Themes
-We work on causal inference, multimodal representation learning, foundation model evaluation, and human-AI interaction. Recent work appears at CVPR, ICCV, NeurIPS, ICLR, KDD, AAAI, and CHI, as well as in /Nature Machine Intelligence/ and /Nature Medicine/.
+We work on LLMs and AI agents, multimodal representation learning, causal inference, and human-AI interaction. Recent work appears at CVPR, ICCV, NeurIPS, ICLR, KDD, AAAI, and CHI, as well as in /Nature Machine Intelligence/ and /Nature Medicine/.
 
 === Foundation Models \& LLM Agents
 /We build and evaluate medical LLMs, vision-language models, and agent systems, using benchmarks grounded in real clinical data instead of static leaderboards./
