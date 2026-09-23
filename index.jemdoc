@@ -22,6 +22,9 @@ Ping Zhang is a Full Professor at The Ohio State University (OSU), with joint ap
 
 He leads the Artificial Intelligence in Medicine (AIMed) Lab, which develops machine learning methods to answer a core clinical question: which treatments work, for whom, and when? The lab advances multimodal LLMs, AI agents, and causal inference, working across cellular perturbation data and population-scale patient records, and deploys the resulting systems in live hospital settings.
 
+== Openings
+[lab.html AIMed Lab] currently has openings for [files/ad_phd.txt PhD students (Spring\/Fall 2027)], [files/ad_postdoc.txt postdoctoral associates (AI/ML)], [files/ad_postdoc_hci.txt postdoctoral associates (HCI)], and visiting scholars with research interests related to multimodal LLMs, AI agents, causal inference, and medical image analysis. Please reach out to Dr. Ping Zhang via email if you are interested.
+
 == Research Themes
 We work on LLMs and AI agents, multimodal representation learning, causal inference, and human-AI interaction. Recent work appears at CVPR, ICCV, NeurIPS, ICLR, KDD, AAAI, and CHI, as well as in /Nature Machine Intelligence/ and /Nature Medicine/.
 
@@ -58,9 +61,6 @@ We work on LLMs and AI agents, multimodal representation learning, causal infere
 - Changchang Yin et al. Deconfounding actor-critic network with policy adaptation for dynamic treatment regimes. /KDD/, 2022.
 
 (For a complete chronological list of our work, please see the [publication.html Full Publications] page)
-
-== Openings
-[lab.html AIMed Lab] currently has openings for [files/ad_phd.txt PhD students (Spring\/Fall 2027)], [files/ad_postdoc.txt postdoctoral associates (AI/ML)], [files/ad_postdoc_hci.txt postdoctoral associates (HCI)], and visiting scholars with research interests related to multimodal LLMs, AI agents, causal inference, and medical image analysis. Please reach out to Dr. Ping Zhang via email if you are interested.
 
 == Research Support
 Our lab gratefully acknowledges ongoing and past support from NSF (e.g., CAREER [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2145625 IIS-2145625], SenSE [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2037398 CBET-2037398]), NIH (e.g., R01 [https://reporter.nih.gov/project-details/11063494 NIAID-R01AI188576], R01 [https://reporter.nih.gov/project-details/10185087 NIGMS-R01GM141279], R01 [https://reporter.nih.gov/project-details/11168498 NCI-R01CA301579], R01 [https://reporter.nih.gov/project-details/11274912 NICHD-R01HD120364], R25 [https://reporter.nih.gov/project-details/10631689 NLM-R25LM014223], R01 [https://reporter.nih.gov/project-details/11273386 NIA-R01AG097722], R01 [https://reporter.nih.gov/project-details/10590246 NIDA-R01DA057668], R01 [https://reporter.nih.gov/project-details/10504585 NCI-R01CA273924], R01 [https://reporter.nih.gov/project-details/9731584 NIGMS-R01GM122845], R21 [https://reporter.nih.gov/project-details/10217710 NIBIB-R21EB030294]), Ohio Department of Medicaid, Google, Lyntek Medical Technologies, Lindonlight Collective, Medforall, PharmaEssentia, and Nationwide Children's Hospital.
