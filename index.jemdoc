@@ -26,22 +26,22 @@ He leads the Artificial Intelligence in Medicine (AIMed) Lab, which develops mac
 [lab.html AIMed Lab] currently has openings for [files/ad_phd.txt PhD students (Spring\/Fall 2027)], [files/ad_postdoc.txt postdoctoral associates (AI/ML)], [files/ad_postdoc_hci.txt postdoctoral associates (HCI)], and visiting scholars with research interests related to multimodal LLMs, AI agents, causal inference, and medical image analysis. Please reach out to Dr. Ping Zhang via email if you are interested.
 
 == Research Themes
-We work on LLMs and AI agents, multimodal representation learning, causal inference, and human-AI interaction. Recent work appears at CVPR, ICCV, NeurIPS, ICLR, KDD, AAAI, and CHI, as well as in /Nature Machine Intelligence/ and /Nature Medicine/.
+We work on LLMs and AI agents, multimodal representation learning, causal inference, and human-AI interaction. Recent work appears at CVPR, ICCV, NeurIPS, ICLR, KDD, AAAI, and CHI, as well as in /IEEE TPAMI/, /Nature Machine Intelligence/ and /Nature Medicine/.
 
 === Foundation Models \& LLM Agents
 /We build and evaluate medical LLMs, vision-language models, and agent systems, using benchmarks grounded in real clinical data instead of static leaderboards./
 - Ruoqi Liu et al. Teaching multimodal LLMs to comprehend 12-lead electrocardiographic images. /npj Digital Medicine/, 2026.
 - Jiahao Xu et al. SurgWound-Bench: A benchmark for surgical wound diagnosis. /npj Digital Medicine/, 2026.
 - Yuanlong Wang et al. PBSBench: A multi-level vision-language framework and benchmark for hematopathology whole slide image interpretation. /Findings of CVPR/, 2026.
-- Zishan Gu et al. MedVH: Towards systematic evaluation of hallucination for large vision language models in the medical context. /Advanced Intelligent Systems/, 2025.
-- Yilan Wu et al. An eyecare foundation model for clinical assistance: a randomized controlled trial. /Nature Medicine/, 2025.
+- Zishan Gu et al. A proactive agent collaborative framework for zero-shot multimodal medical reasoning. /Advanced Intelligent Systems/, 2025.
+- Fenglin Liu et al. Aligning, autoencoding and prompting large language models for novel disease reporting. /IEEE TPAMI/, 2025.
 
 === Phenotypic Drug Discovery from Multimodal Data
 /We learn representations of how cells respond to compounds, from transcriptomic profiles to high-content microscopy imaging, to identify and repurpose drug candidates./
 - Thai-Hoang Pham et al. A deep learning framework for high-throughput mechanism-driven phenotype compound screening and its application to COVID-19 drug repurposing. /Nature Machine Intelligence/, 2021.
 - Thai-Hoang Pham et al. Chemical-induced gene expression ranking and its application to pancreatic cancer drug repurposing. /Patterns/, 2022.
-- Thai-Hoang Pham et al. FAME: fragment-based conditional molecular generation for phenotypic drug discovery. /SDM/, 2022.
-- Jiayuan Chen et al. Integrating biological knowledge for robust microscopy image profiling on de novo cell lines. /ICCV/ (Highlight, 2.3\%), 2025.
+- Jiayuan Chen et al. Integrating biological knowledge for robust microscopy image profiling on de novo cell lines. /ICCV/, 2025 (Highlight, 2.3\%).
+- Zhankun Xiong et al. Multi-to-uni modal knowledge transfer pre-training for molecular representation learning. /Nature Communications/, 2026.
 - Jiayuan Chen et al. Intervention-aware multiscale representation learning from imaging phenomics and perturbation transcriptomics. /CVPR/, 2026.
 
 === Causal Inference \& Real-World Evidence
@@ -53,12 +53,12 @@ We work on LLMs and AI agents, multimodal representation learning, causal infere
 - Ruoqi Liu et al. A deep learning framework for drug repurposing via emulating clinical trials on real-world patient data. /Nature Machine Intelligence/, 2021.
 
 === Clinical Deployment \& Human-AI Collaboration
-/We build decision support systems that quantify their own uncertainty and are tested in real hospital settings, studying how clinicians and models actually work together./
+/We build decision support systems that quantify their own uncertainty, generalize across patient populations, and are tested in real hospital settings./
 - Thai-Hoang Pham et al. The boundaries of fair AI in medical image prognosis: A causal perspective. /NeurIPS/, 2025.
-- Changchang Yin et al. SepsisCalc: Integrating clinical calculators into early sepsis prediction via dynamic temporal graph construction. /KDD/, 2025.
+- Yilan Wu et al. An eyecare foundation model for clinical assistance: a randomized controlled trial. /Nature Medicine/, 2025.
 - Shao Zhang et al. Rethinking human-AI collaboration in complex medical decision making: A case study in sepsis diagnosis. /CHI/, 2024.
 - Changchang Yin et al. SepsisLab: Early sepsis prediction with uncertainty quantification and active sensing. /KDD/, 2024.
-- Changchang Yin et al. Deconfounding actor-critic network with policy adaptation for dynamic treatment regimes. /KDD/, 2022.
+- Thai-Hoang Pham et al. Fairness and accuracy under domain generalization. /ICLR/, 2023.
 
 (For a complete chronological list of our work, please see the [publication.html Full Publications] page)
 
