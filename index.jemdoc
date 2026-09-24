@@ -38,11 +38,11 @@ We work on LLMs and AI agents, multimodal representation learning, causal infere
 
 === Phenotypic Drug Discovery from Multimodal Data
 /We learn representations of how cells respond to compounds, from transcriptomic profiles to high-content microscopy imaging, to identify and repurpose drug candidates./
-- Thai-Hoang Pham et al. A deep learning framework for high-throughput mechanism-driven phenotype compound screening and its application to COVID-19 drug repurposing. /Nature Machine Intelligence/, 2021.
-- Thai-Hoang Pham et al. Chemical-induced gene expression ranking and its application to pancreatic cancer drug repurposing. /Patterns/, 2022.
-- Jiayuan Chen et al. Integrating biological knowledge for robust microscopy image profiling on de novo cell lines. /ICCV/, 2025 (Highlight, 2.3\%).
-- Zhankun Xiong et al. Multi-to-uni modal knowledge transfer pre-training for molecular representation learning. /Nature Communications/, 2026.
+- Jiayuan Chen et al. From retrieval to reasoning: Agentic mechanism prediction from cell painting profiles. /NeurIPS/, 2026.
 - Jiayuan Chen et al. Intervention-aware multiscale representation learning from imaging phenomics and perturbation transcriptomics. /CVPR/, 2026.
+- Zhankun Xiong et al. Multi-to-uni modal knowledge transfer pre-training for molecular representation learning. /Nature Communications/, 2026.
+- Jiayuan Chen et al. Integrating biological knowledge for robust microscopy image profiling on de novo cell lines. /ICCV/, 2025 (Highlight, 2.3\%).
+- Thai-Hoang Pham et al. A deep learning framework for high-throughput mechanism-driven phenotype compound screening and its application to COVID-19 drug repurposing. /Nature Machine Intelligence/, 2021.
 
 === Causal Inference \& Real-World Evidence
 /We estimate treatment effects from observational patient data (such as EHRs and claims), emulating clinical trials to determine which treatments work, for whom, and when./
