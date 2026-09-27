@@ -26,7 +26,7 @@ He leads the Artificial Intelligence in Medicine (AIMed) Lab, which develops mac
 [lab.html AIMed Lab] currently has openings for [files/ad_phd.txt PhD students (Spring\/Fall 2027)], [files/ad_postdoc.txt postdoctoral associates (AI/ML)], [files/ad_postdoc_hci.txt postdoctoral associates (HCI)], and visiting scholars with research interests related to multimodal LLMs, AI agents, causal inference, and medical image analysis. Please reach out to Dr. Ping Zhang via email if you are interested.
 
 == Research Themes
-We work on LLMs and AI agents, multimodal representation learning, causal inference, and human-AI interaction. Recent work appears at CVPR, ICCV, NeurIPS, ICLR, KDD, AAAI, and CHI, as well as in /IEEE TPAMI/, /Nature Machine Intelligence/ and /Nature Medicine/.
+We work on LLMs and AI agents, multimodal representation learning, causal inference, and human-AI interaction. Recent work appears at CVPR, ICCV, NeurIPS, ICLR, KDD, AAAI, and CHI, as well as in /TPAMI/, /Nature Machine Intelligence/, and /Nature Medicine/.
 
 === Foundation Models \& LLM Agents
 /We build and evaluate medical LLMs, vision-language models, and agent systems, using benchmarks grounded in real clinical data instead of static leaderboards./
@@ -34,7 +34,7 @@ We work on LLMs and AI agents, multimodal representation learning, causal infere
 - Jiahao Xu et al. SurgWound-Bench: A benchmark for surgical wound diagnosis. /npj Digital Medicine/, 2026.
 - Yuanlong Wang et al. PBSBench: A multi-level vision-language framework and benchmark for hematopathology whole slide image interpretation. /Findings of CVPR/, 2026.
 - Zishan Gu et al. A proactive agent collaborative framework for zero-shot multimodal medical reasoning. /Advanced Intelligent Systems/, 2025.
-- Fenglin Liu et al. Aligning, autoencoding and prompting large language models for novel disease reporting. /IEEE TPAMI/, 2025.
+- Fenglin Liu et al. Aligning, autoencoding and prompting large language models for novel disease reporting. /TPAMI/, 2025.
 
 === Phenotypic Drug Discovery from Multimodal Data
 /We learn representations of how cells respond to compounds, from transcriptomic profiles to high-content microscopy imaging, to identify and repurpose drug candidates./
