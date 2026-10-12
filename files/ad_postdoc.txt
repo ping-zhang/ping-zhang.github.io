@@ -1,18 +1,19 @@
-Postdoctoral Researcher Positions in AI Foundation Models at The Ohio State University
+Postdoctoral Researcher Positions in AI Foundation Models and Agents at The Ohio State University
 
-Multiple postdoctoral researcher positions are available at The Ohio State University (OSU). The postdoctoral researcher is expected to develop novel AI foundation models (such as large language models, large vision models, and large multimodal models) for analyzing complex biomedical data (e.g., electronic health records, hospital claims, gene expression, and medical images) to solve tough problems in healthcare and medicine (e.g., clinical decision support, disease phenotyping, and drug repurposing). The postdoctoral researcher will work closely with Dr. Ping Zhang (https://www.pingzhang.net/) in the Artificial Intelligence in Medicine (AIMed) Lab at OSU.
+Multiple postdoctoral researcher positions are available at The Ohio State University (OSU). The postdoctoral researcher is expected to develop novel AI methods (such as multimodal large language models, AI agents, and causal machine learning) for analyzing complex biomedical data (e.g., electronic health records, claims data, cell imaging, and medical images) to solve challenging problems in healthcare and medicine (e.g., treatment effect estimation, drug discovery, and clinical decision support). The postdoctoral researcher will work closely with Dr. Ping Zhang (https://www.pingzhang.net/) in the Artificial Intelligence in Medicine (AIMed) Lab at OSU. The positions offer a competitive salary and benefits, as well as career development opportunities.
 
 Qualifications:
-- PhD in related subject areas, such as computer science, statistics/biostatistics, and health/biomedical informatics;
+- PhD in related subject areas, such as computer science, electrical engineering, or health/biomedical informatics;
 - Experience in analyzing large-scale data from a variety of sources;
-- Excellent programming skills in either Python, R, MATLAB, Java, or C/C++;
+- Excellent programming skills in Python and deep learning frameworks (e.g., PyTorch);
+- Prior experience with biomedical data is welcome but not required;
 - Experience in publishing multiple first-author research articles in peer-reviewed technical conferences such as NeurIPS, ICML, ICLR, KDD, ACL, CVPR, ICCV, AAAI, or similar;
 - Excellent oral and written communication skills and ability to work in a collaborative environment, to coordinate and lead part of the research project.
 
 Interested applicants can contact Dr. Ping Zhang by sending the following documents to his email (zhang.10631@osu.edu):
 - cover letter with research interests/plans and preferred starting date;
 - a current CV with a full list of publications;
-- 2 representative publications in computer science conferences;
+- 3 representative first-author publications in top computer science conferences;
 - contact information for 2 references.
-
+ 
 * Visiting students/scholars are also welcome.
